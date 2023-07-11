@@ -1,0 +1,14 @@
+Categories:
+  - fdroid
+License: GPL-3.0-or-later
+AuthorName: Test_Project
+AuthorEmail: sarathkumar.soundar@coherent.in
+WebSite: http://135.181.200.160
+
+Name: Test Project
+Summary: F-Droid
+Description: This is for testing purpose
+
+AutoUpdateMode: VersionCode
+UpdateCheckMode: None
+CurrentVersionCode: 2147483647
